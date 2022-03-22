@@ -1,3 +1,0 @@
-muokataan toista tiedostoa
-git add -p muutosten testailua
-

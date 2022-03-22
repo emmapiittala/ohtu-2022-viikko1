@@ -1,3 +1,0 @@
-ensimmäisten muutosten tekeminen
-poistamisen jälkeen uusi muutos
-git add -p muutosten testailua
